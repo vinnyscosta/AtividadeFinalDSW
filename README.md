@@ -18,8 +18,8 @@ Funcionalidades:
 - Relatório com alunos e suas notas
 
 Recursos:
--HTML
--PHP
--CSS
--JavaScript
--SQL
+- HTML
+- PHP
+- CSS
+- JavaScript
+- SQL
