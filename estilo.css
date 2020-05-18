@@ -1,0 +1,106 @@
+h1{
+	text-align: center;
+}
+
+body{
+	background-color: #7db7ca;
+	color: white;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 20px;  
+	height: 100%;
+	margin: 0 auto; /* Centraliza */
+	padding: 8px;
+	width: 70%; /* Define a largura do Corpo do Documento */
+	
+}
+
+
+html {
+  height: 100%; /* Define o tamanho do Documento HTML */
+}
+
+
+hr{
+	border-top: 1px dashed #406fa4;
+	border-bottom: 1px solid #406fa4;
+	background-color: #7db7ca;
+	height: 2px;
+	font-weight: bold;
+}
+
+.hr{
+	text-align: center;
+	color: #00607b;
+	line-height: 5px;
+}
+
+input[type=text], input[type=tel]{
+	font-size: 18px;
+	border-radius: 8px 8px 8px 8px;
+	border: solid;
+	border-width: 1px;
+	border-color: #406fa4;
+}
+
+select{
+	font-size: 18px;
+	
+}
+
+input[type=text]:focus, input[type=tel]:focus{
+	background-color: #406fa4;
+	color: white;
+	box-shadow: 0 0 0 0;
+	border: 0 none;
+    outline: 0;
+}
+
+
+
+a {
+    width: 160px;
+    height: 25px;
+    line-height: 40px;
+    padding: 10px 5px;
+    background-color: #406fa4;
+    color: #FFF;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Tahoma, Sans-Serif;
+}
+
+.btn{
+	background-color: #406fa4;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	color: #FFF;
+	font-size:25;
+	height: 25px;
+}
+
+.btnGrande{
+	cursor: pointer;
+	width: 20%;
+    height: 50px;
+    line-height: 40px;
+    padding: 10px 5px;
+    background-color: #406fa4;
+    color: #FFF;
+	border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 18px;
+}
+
+.btn:hover, .btnGrande:hover{
+	background-color: white;
+	color: #406fa4;
+}
+
+#teste{
+	border:10px solid white;
+}
