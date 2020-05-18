@@ -1,11 +1,11 @@
 AtividadeFinalDSW - Sistema de Gerenciamento de Aluno
 
 Integrantes:
-Aime Aurora
-Mário da S. Oliveira
-Priscila A. S. de Souza
-Victor F. R. Peres
-Vinicius G. Costa
+- Aime Aurora
+- Mário da S. Oliveira
+- Priscila A. S. de Souza
+- Victor F. R. Peres
+- Vinicius G. Costa
 
 Descrição:
 Sistema de gereciamento de aluno que permite realização de cadastros de alunos e disciplinas, assim como a possibilidade de postar e alterar notas e apresenta-las em um relatório.
