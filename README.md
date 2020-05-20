@@ -23,3 +23,5 @@ Recursos:
 - CSS
 - JavaScript
 - SQL
+
+OBS: Colocar o arquivo estilo.css em uma pasta css.
